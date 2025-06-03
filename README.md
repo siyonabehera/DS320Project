@@ -44,7 +44,11 @@ Hepatitis C is a viral liver infection that can lead to serious conditions like 
 We used ChatGPT to debug code, manage our timeline, and help organize key deliverables.
 
 ## 📁 Files in This Repository
-- `HepatitisC_Predictive_Model.ipynb` – Main notebook with code
-- `HepatitisCdata.csv` – Dataset used
-- `presentation.pdf` – Final project presentation
-- `README.md` – Project overview
+- `HepatitisC_Predictive_Model.ipynb` – Main notebook with all code
+- `DS320FinalProject - A9.pdf` – Final project presentation
+- `README.md` – This overview
+  
+## 📂 Dataset
+- The dataset used in this project is publicly accessible here:  
+  [HepatitisCdata.csv (GitHub raw link)](https://raw.githubusercontent.com/ginaaseo/DS320-Final-Project/main/HepatitisCdata.csv)
+
